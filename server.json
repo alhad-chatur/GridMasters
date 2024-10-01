@@ -1,0 +1,14 @@
+{
+  "ipv6": "::1",
+  "port": "9000",
+  "allocatedUUID": "1a04a1ac-a31a-11ed-a5e3-00155d4f1a62",
+  "serverID": "12345",
+  "machineID": "6789",
+  "fleetID": "c0a3e2a1-6955-415c-b1d4-af9199833e6a",
+  "regionID": "f15a6c27-de2a-4848-abc3-9579fbfd2259",
+  "regionName": "North America",
+  "queryPort": "9010",
+  "ip": "127.0.0.1",
+  "queryType": "sqp",
+  "serverLogDir": "/mnt/unity/logs/"
+}
